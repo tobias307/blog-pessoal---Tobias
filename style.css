@@ -1,0 +1,9 @@
+body{
+background-color: darkturquoise;
+}
+header{
+background-color: rgb(136, 192, 202);
+color: rgb(255, 254, 254);
+text-align: center;
+max-width: 800px;
+}
